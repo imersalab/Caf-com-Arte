@@ -121,7 +121,7 @@ header {
 
  header img{
 
-  width: 100px;   
+  width: 110px;   
   height: auto;  
   border-radius: 40px;
   box-shadow:3px 3px 3px #2c2c2c; 
@@ -245,4 +245,6 @@ footer {
     height: 100%;
     object-fit: cover;
 }
-
+h1{
+    color: black;
+}
