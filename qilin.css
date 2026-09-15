@@ -2,7 +2,7 @@ table{
     border: 4px;
 }
 body{
-    background-color: rgb(49, 46, 42);
+    background-color: #FAF2EA;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     margin: 0;
@@ -14,11 +14,12 @@ body{
 
 .conteiner{
    padding-left: 10px;
-    background-color: black;
+    background-color: #231712;
     width: 300px;
     height: 550px;
     box-shadow: 3px 3px 3px rgb(18, 83, 126);
     margin: 15px;
+    
 }
 .conta{
     display: flex;
@@ -39,15 +40,15 @@ body{
 }
 .texto-pequeno{
     font-size: 20px;
-    color: white;
     margin-top: 10px;
     display: flex;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #F7EBE1;
 
 }
 .pequeno{
     font-size: 13px;
-    color: white;
+    color: #F7EBE1;
     margin-top: 10px;
     display: flex;
     justify-content: right;
@@ -69,7 +70,7 @@ body{
 }
 .Preço-pagamento{
     font-size: 13px;
-    color: black;
+    color: #F7EBE1;
     margin-top: 7px;
     display: flex;
     justify-content: left;
@@ -82,19 +83,19 @@ button{
     margin-top: 10px;
     margin-left: 30px;
     border-radius: 10px;
-    background-color: rgb(37, 89, 134);
-    box-shadow: 2px 2px 2px white;
+    background-color: #D49B41;
+    box-shadow: 2px 2px 2px rgb(145, 196, 240);
     border-color: none;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 25%;
 }
 button:hover{
-    background-color: rgb(67, 155, 231);
+    background-color: rgba(241, 6, 6, 0.568);
 }
 
 header {
-    background-color: #f05555; 
+    background-color: #C58B8B; 
     color: #ffffff; 
     padding: 20px 10px; 
     font-size: 14px;  
@@ -105,7 +106,7 @@ header {
 }
 
  a {
-    color: #f2a65a; 
+    color: white; 
     text-decoration: none;
     margin: 0 10px;
     margin-top: 25px;
@@ -135,7 +136,7 @@ header {
 }
 
 footer {
-    background-color:  #f05555;
+    background-color: #C58B8B;
 
     color: white;
      padding-right: 160px;
@@ -161,7 +162,7 @@ footer {
 
 .footer-coluna h3 {
 
-    color: #f2a65a;
+    color: white;
 
     font-size: 15px;
 
@@ -172,9 +173,9 @@ footer {
 .footer-coluna p,
 .footer-coluna a {
 
-    color: #ddd;
+    color: #4A121A;
 
-    font-size: 13px;
+    font-size: 15px;
 
     line-height: 1.6;
 }
